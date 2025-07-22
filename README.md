@@ -54,7 +54,7 @@ This task helped me understand:
 ---
 
 ## 🔗 Project File
-Notebook: [`DecessionTree_bank_task3.ipynb`](./DecessionTree_bank_task3.ipynb)
+Notebook: [`DecisionTree_bank_task3.ipynb`](./DecisionTree_bank_task3.ipynb)
 
 ---
 
